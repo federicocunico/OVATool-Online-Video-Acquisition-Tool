@@ -14,7 +14,7 @@ Tested on Ubuntu18.04 with python3.8.
 
 ---
 
-**Disclaimer**: I am **not** responsable of the incorrect usage of the stream data published on the "http://insecam.org/" website. Some data stream may has been published unintentionally, and the redistribution of the data may not be authorized. Beware that the data you acquire are treated in compliance with [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj) (if the acquired data is originated from the EU area), or in compliance with the privacy laws (if any) of the state of origin of the data.
+**Disclaimer**: I am **not** responsable for the incorrect usage of the stream data published on the "http://insecam.org/" website. Some data stream may has been published unintentionally, and the redistribution of the data may not be authorized. Beware that the data you acquire are treated in compliance with [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj) (if the acquired data is originated from the EU area), or in compliance with the privacy laws (if any) of the state of origin of the data.
 
 ---
 
